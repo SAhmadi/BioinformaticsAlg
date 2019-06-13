@@ -18,4 +18,4 @@ Print the total number of generated integers at the end.
 Given to strings of same length, calculate their `Hamming-Distance`.
 
 ### First Occurrence | Exercise-Sheet 2
-Given a long text `String T`, a shorter pattern `String s`, and an `integer k`, give an algorithm that finds the first occurrence in `T` of a string (if any) `s'` such that $$d_H(s, s' ) ≤ k$$ What is the complexity of your algorithm? `O(len(T) * len(s))`
+Given a long text `String T`, a shorter pattern `String s`, and an `integer k`, give an algorithm that finds the first occurrence in `T` of a string (if any) `s'` such that `dH(s, s') <= k` What is the complexity of your algorithm? `O(len(T) * len(s))`

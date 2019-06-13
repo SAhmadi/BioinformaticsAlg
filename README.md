@@ -5,6 +5,8 @@ Programming tasks from the exercise-sheets.
 * Exercise-Sheet 1
 	* Random Numbers
 	* Hamming-Distance
+* Exercise-Sheet 2
+	* First Occurrence
 
 ---
 
